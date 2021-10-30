@@ -1,0 +1,3 @@
+badvpn-tun2socks
+corkscrew
+sshpass
